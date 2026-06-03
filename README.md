@@ -12,6 +12,9 @@
   git clone https://github.com/yuanqizhiti/HongTu.git
   ```
 
+### Jetson Docker部署
+- Jetson Orin 可参考 [HongTu ROS Docker From Zero](<HongTu ROS Docker From Zero.md>) 从零创建 ROS Noetic Docker 环境、安装依赖并编译导航工作区。
+
 ### 2D导航
 - 安装 [Livox SDK2](https://github.com/Livox-SDK/Livox-SDK2)
     ```bash
